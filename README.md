@@ -1,0 +1,4 @@
+# nagojasu
+CONSUMER_KEY, CONSUMER_SECRET, OAUTH_TOEKN, OAUTH_TOEKN_SECRETをいれて
+
+みんなで名護ジャスなー！
